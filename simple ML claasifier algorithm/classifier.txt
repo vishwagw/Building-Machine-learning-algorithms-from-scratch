@@ -1,0 +1,14 @@
+In this project, we are going to create a simple ML algorithm on Python programming language.
+For ML algorithms, we typically use jupyter notebooks(.ipynb).
+1. Sci-kit learn - 
+Sci-kit learn is a package suite that can be installed in your computer using followin command line.
+   pip install scikit-learn
+This is one of the best python library packages to create ML algorithm.
+from this package, we can import datasets. there are several sample datasets we can use for.  
+
+then we must oragnize the dataset first.so, we have to load the input data variable. then we have to identify other variables as mentioned. 
+then we can print the variables and have a first look on the data.
+
+
+
+
